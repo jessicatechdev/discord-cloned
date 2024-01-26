@@ -33,7 +33,7 @@ https://github.com/jessicatechdev/discord-clone.git
 ### Install packages
 
 ```shell
-npm i
+npm i or yarn
 ```
 
 ### Setup .env file
